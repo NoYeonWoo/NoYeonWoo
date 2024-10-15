@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/doongjun/commitmon">
-  <img alt="commitmon" src="https://commitmon.me/adventure?username=NoYeonWoo&theme=desert" width="600px" />
+  <img alt="commitmon" src="https://commitmon.me/adventure?username=NoYeonWoo&theme=desert&userFetchType=all" width="600px" />
 </a>
